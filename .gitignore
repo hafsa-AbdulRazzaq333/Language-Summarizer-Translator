@@ -14,3 +14,7 @@ __pycache__/
 # System files
 .DS_Store
 
+<<<<<<< HEAD
+=======
+.env
+>>>>>>> 035391b314859e0046ed6a57ccb5a2b02d80e109
