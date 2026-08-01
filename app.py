@@ -108,7 +108,7 @@ st.markdown(
         border-radius: 999px !important;
         padding: 0.78rem 1.15rem !important;
         background: linear-gradient(135deg, var(--primary), var(--accent)) !important;
-        color: white !important;
+        color: black !important;
         font-weight: 700 !important;
         box-shadow: 0 12px 24px rgba(84,103,255,0.22) !important;
         transition: transform 180ms ease, box-shadow 180ms ease !important;
